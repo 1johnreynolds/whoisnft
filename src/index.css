@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,500;1,400&display=swap');
+
+.custom {
+    background: linear-gradient(267.45deg,hsl(100, 100%, 51%) -34.23%,rgb(64, 160, 243) 99.39%)
+}

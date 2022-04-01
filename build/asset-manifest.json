@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://whoisnft.io/static/css/main.1ad7ccee.css",
+    "main.js": "https://whoisnft.io/static/js/main.ed25788e.js",
+    "index.html": "https://whoisnft.io/index.html",
+    "main.1ad7ccee.css.map": "https://whoisnft.io/static/css/main.1ad7ccee.css.map",
+    "main.ed25788e.js.map": "https://whoisnft.io/static/js/main.ed25788e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ad7ccee.css",
+    "static/js/main.ed25788e.js"
+  ]
+}
